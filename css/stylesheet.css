@@ -1,0 +1,93 @@
+<style type="text/css"> 
+
+
+.twoColElsLtHdr #sidebar1 { 
+padding-top: 30px;
+ }
+.twoColElsLtHdr #mainContent { 
+zoom: 1; 
+padding-top: 15px; 
+}
+
+
+body  {
+	font:100% Verdana, Arial, Helvetica, sans-serif;
+    background: #FFFFFF;
+	background-image:url(../image/VectorBackground.jpg);
+	background-color:#00CCFF;
+	margin: 0;
+	padding: 0;
+	text-align: center; 
+	color: #000000;
+}
+
+.twoColElsLtHdr #container { 
+	width: 50em;
+	height:55em;
+	  
+background-color: #FFFFFF;
+	margin: 0 auto; 
+	border: 1px solid #000000;
+	text-align: left; 
+} 
+.twoColElsLtHdr #header { 
+
+	padding: 0 10px;
+	width:98%;
+	height:130px;
+	background-image:url(../image/blacklarge.png);
+		background-color:#FFFFFF; 
+	
+	
+	
+} 
+.twoColElsLtHdr #header h1 {
+	margin: 0;
+	 padding: 10px 0;
+
+	
+}
+
+
+
+.twoColElsLtHdr #sidebar1 {
+	float: left; 
+	width: 12em;
+	background-image:url(../image/background.jpg); 
+	padding: 15px 0; 
+}
+.twoColElsLtHdr #sidebar1 h3, .twoColElsLtHdr #sidebar1 p {
+	margin-left: 10px; 
+	margin-right: 10px;
+}
+
+
+.twoColElsLtHdr #mainContent {
+	margin: 0 1.5em 0 13em; 
+} 
+.twoColElsLtHdr #footer { 
+	padding: 0 10px; 
+	background:#DDDDDD;
+} 
+.twoColElsLtHdr #footer p {
+	margin: 0;
+	padding: 10px 0; 
+}
+
+
+.fltrt { 
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { 
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { 
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+
+</style>
